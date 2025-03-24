@@ -1,0 +1,7 @@
+@wiga_HostAddress = http://localhost:5097
+
+# Company controller 
+GET {{wiga_HostAddress}}/api/company/39D4DDBE-CD69-4F4E-8218-956F6C60A963
+Accept: application/json
+
+###

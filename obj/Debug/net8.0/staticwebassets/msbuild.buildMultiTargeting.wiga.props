@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\wiga.props" />
+</Project>
